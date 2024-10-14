@@ -1,0 +1,1 @@
+//In this we will write the js code for the index page.
